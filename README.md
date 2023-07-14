@@ -44,6 +44,3 @@ nodemon index.js
 ```
 Now open localhost:5173 in browser to start the application.
 
-## Authors
-- [Parth Kasture](https://github.com/parthkasture)
-- [Shashank Kumar](https://github.com/shashankexe)
